@@ -1,0 +1,5 @@
+User-agent: *
+# VERSÃO DEMONSTRATIVA: trocar por "Allow: /" ao publicar o site oficial
+Disallow: /
+
+Sitemap: https://arthwr14.github.io/carol-pet-shop/sitemap.xml
